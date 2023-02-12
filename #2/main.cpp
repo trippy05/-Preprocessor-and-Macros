@@ -1,5 +1,5 @@
 #include <iostream>
-#define SUB(a,b) (a-b)
+#define SUB(a,b) (a-(b))
 int main (int argc, char** argv)
 {
     int a = 6;
